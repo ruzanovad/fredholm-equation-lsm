@@ -8,3 +8,4 @@ This repository contains an algorithm that solves the Fredholm Integral Equation
 - Approximates the solution using the Least Squares Method.
 - Supports different kernel functions and input functions.
 - Provides numerical experiments to demonstrate accuracy under various parameters.
+- Uses Python3
