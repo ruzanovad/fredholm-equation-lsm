@@ -1,4 +1,4 @@
-# fredholm-equation-lsm
+# Fredholm Integral Equation Solver
 
 This repository contains an algorithm that solves the Fredholm Integral Equation of the First Kind using Gauss Quadrature Formulas with approximation by the Least Squares Method.
 
